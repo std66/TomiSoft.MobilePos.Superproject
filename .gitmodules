@@ -1,0 +1,8 @@
+[submodule "TomiSoft.MobilePos"]
+	path = TomiSoft.MobilePos
+	url = https://github.com/std66/TomiSoft.MobilePos.git
+	branch = master
+[submodule "TomiSoft.ProductCatalog"]
+	path = TomiSoft.ProductCatalog
+	url = https://github.com/std66/TomiSoft.ProductCatalog.git
+	branch = master
