@@ -10,3 +10,7 @@
 	path = TomiSoft.ProductPrice
 	url = https://github.com/std66/TomiSoft.ProductPrice.git
 	branch = master
+[submodule "TomiSoft.Purchase"]
+	path = TomiSoft.Purchase
+	url = https://github.com/std66/TomiSoft.Purchase.git
+	branch = master
